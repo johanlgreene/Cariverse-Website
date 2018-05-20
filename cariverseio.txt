@@ -1,4 +1,8 @@
-h1/ Cariverse.io
-h3/ Build your own future.
+<html>
+<body>
+  <h1> Cariverse.io </h1>
+  <h3> <strong>Build your own future.</strong> </h3>
+  <p> Support the development of the Caribbean through collaboration and cooperation./p>
 
-# Support the development of the Caribbean through collaboration and cooperation.
+</body>
+<html/>
